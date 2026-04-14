@@ -1,3 +1,9 @@
+<img width="1350" height="626" alt="produtos comprados" src="https://github.com/user-attachments/assets/2e9fdcc8-b3f3-4e4d-9360-9afd0dda13be" />
+<img width="1350" height="626" alt="faixa salarial" src="https://github.com/user-attachments/assets/13a44e58-a058-441d-9aa4-ec0970471862" />
+<img width="1350" height="626" alt="Limite" src="https://github.com/user-attachments/assets/753f5056-a37a-457f-82df-8074dbc19748" />
+<img width="1350" height="626" alt="Categoria cartão" src="https://github.com/user-attachments/assets/3706d53f-f9bd-4620-bb12-01347dd8e026" />
+<img width="1350" height="626" alt="grafico idade" src="https://github.com/user-attachments/assets/5d8007cb-6ccc-4bbe-989b-8bc5aa2e2689" />
+<img width="1350" height="626" alt="grafico contatos 12m" src="https://github.com/user-attachments/assets/9f5d9e39-00f0-4810-b7b8-72ef8ab89a2e" />
 # 📊 Análise de Cancelamento de Clientes (Churn Analysis)
 
 Este projeto tem como objetivo analisar os fatores que influenciam o cancelamento de clientes em uma base de dados bancária.
